@@ -1,6 +1,6 @@
 <h1>Mini-Project - SC1005</h1>
 <h2>About</h2>
-<p>This repository is for the mini-project in SC1005 (Introduction to Data Science and Artificial Intelligence). This project can be categorized into 5 parts:</p>
+<p>This repository is for the mini-project in SC1005 (Introduction to Data Science and Artificial Intelligence). The objective of this project is to predict the popularity of a song based it attributes. It can be categorized into 5 parts:</p>
 <ul>
   <li>Data Preparation</li>
   <li>Exploratory Data Analysis</li>
@@ -19,11 +19,19 @@
 </ul>
 <h2>Conclusion</h2>
 <ul>
-  <li></li>
+  <li>The popularity of a song is not influenced by only a single variable. A mixture of attributes is required to influence its popularity rating.</li>
+  <li>Rock, Pop and Hip hop genre songs are fairly distributed between the Not Popular and Popular categories.</li>
+  <li>Country has significantly more songs falling into the Popular category compared to the Not Popular category.</li>
+  <li>Releasing many songs does not guarantee that your subsequent songs can be a hit.</li>
 </ul>
 <h2>What did we learn from this project?</h2>
 <ul>
-  <li></li>
+  <li>Overcoming the low correlation of a response and a single predictor by using multi-variate method.</li>
+  <li>Analysing and visualizing of datasets to gain better insights</li>
+  <li>Cleaning and preprocessing of datasets to gain accurate prediction of models</li>
+  <li>Training models and predicting the outcomes to solve the problems</li>
+  <li>Using Github to collaborate</li>
+  <li>Being able to approach a song/music in a data scientist's perspective</li>
 </ul>
 <h2>References</h2>
 <ul>
