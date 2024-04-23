@@ -1,6 +1,6 @@
-<h1>Mini-Project - SC1005</h1>
+<h1>Mini-Project - SC1015</h1>
 <h2>About</h2>
-<p>This repository is for the mini-project in SC1005 (Introduction to Data Science and Artificial Intelligence). The objective of this project is to predict the popularity of a song based it attributes. It can be categorized into 5 parts:</p>
+<p>This repository is for the mini-project in SC1015 (Introduction to Data Science and Artificial Intelligence). The objective of this project is to predict the popularity of a song based on it attributes. It can be categorized into 5 parts:</p>
 <ul>
   <li>Data Preparation</li>
   <li>Exploratory Data Analysis</li>
@@ -8,7 +8,7 @@
   <li>Model Training and Evaluation</li>
   <li>Predicting the popularity of a song based on user's input attributes</li>
 </ul>
-<h2>Problem Defination</h2>
+<h2>Problem Definition</h2>
 <ul>
   <li>Are we able to create a model to predict a song's popularity based on music data?</li>
   <li>Are we able to ​assist composers and producers in creating popular songs by providing insights into the essential features?</li>
@@ -21,7 +21,7 @@
 <ul>
   <li>The popularity of a song is not influenced by only a single variable. A mixture of attributes is required to influence its popularity rating.</li>
   <li>Rock, Pop and Hip hop genre songs are fairly distributed between the Not Popular and Popular categories.</li>
-  <li>Country has significantly more songs falling into the Popular category compared to the Not Popular category.</li>
+  <li>For the Country genre, where there is a skewed distribution with more songs falling into the Popular category, it suggests that certain characteristics or elements within Country songs resonate more strongly with audiences, leading to higher popularity ratings.</li>
   <li>Releasing many songs does not guarantee that your subsequent songs can be a hit.</li>
 </ul>
 <h2>What did we learn from this project?</h2>
