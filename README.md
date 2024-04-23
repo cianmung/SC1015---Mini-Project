@@ -19,14 +19,14 @@
 </ul>
 <h2>Conclusion</h2>
 <ul>
-  <li>The popularity of a song is not influenced by only a single variable. A mixture of attributes is required to influence its popularity rating.</li>
-  <li>Rock, Pop and Hip hop genre songs are fairly distributed between the Not Popular and Popular categories.</li>
-  <li>For the Country genre, where there is a skewed distribution with more songs falling into the Popular category, it suggests that certain characteristics or elements within Country songs resonate more strongly with audiences, leading to higher popularity ratings.</li>
-  <li>Releasing many songs does not guarantee that your subsequent songs can be a hit.</li>
+  <li>The popularity of a song is not influenced by only a single variable. A mixture of attributes is required to influence its popularity rating</li>
+  <li>Rock, Pop and Hip hop genre songs are fairly distributed between the Not Popular and Popular categories</li>
+  <li>For the Country genre, where there is a skewed distribution with more songs falling into the Popular category, it suggests that certain characteristics or elements within Country songs resonate more strongly with audiences, leading to higher popularity ratings</li>
+  <li>Releasing many songs does not guarantee that your subsequent songs can be a hit</li>
 </ul>
 <h2>What did we learn from this project?</h2>
 <ul>
-  <li>Overcoming the low correlation of a response and a single predictor by using multi-variate method.</li>
+  <li>Overcoming the low correlation of a response and a single predictor by using multi-variate method</li>
   <li>Analysing and visualizing of datasets to gain better insights</li>
   <li>Cleaning and preprocessing of datasets to gain accurate prediction of models</li>
   <li>Training models and predicting the outcomes to solve the problems</li>
